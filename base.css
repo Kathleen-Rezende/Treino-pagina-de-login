@@ -1,0 +1,22 @@
+:root {
+    --cor-fundo: #d5daf8 ;
+    --cor-fonte-principal : #000;
+    --cor-fonte-secundaria : #5745fc;
+    --cor-input: #c4ccfa;
+    --fonte-principal: 'Quicksand', sans-serif;
+    --cor-background-secundario: #aaa;
+}
+
+
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.container_geral {
+    background-color: var(--cor-fundo);
+}
